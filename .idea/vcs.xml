@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../Tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../idea_workspace" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../workForMyself/email" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../workForMyself/email/src" vcs="Git" />
+  </component>
+</project>
